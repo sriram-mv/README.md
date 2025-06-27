@@ -26,7 +26,7 @@ I’m language-agnostic and delight in building short feedback loops that evoke 
 
 - Programming Languages: Python, Go, JavaScript/TypeScript, Java  
 - Cloud & DevOps: AWS (Lambda, SAM, CloudWatch), Openstack, CI/CD, Docker, Kubernetes  
-- Infra as Code: CloudFormation, Terraform  
+- Infra as Code: AWS SAM, AWS CDK, CloudFormation, Terraform  
 - Tooling: Homebrew, CLI authoring, Build systems  
 
 ---
