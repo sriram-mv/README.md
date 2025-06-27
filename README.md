@@ -3,8 +3,8 @@
 I’m a Senior Engineer at AWS focused on building **agent-ready developer experiences**. Over the past decade, I’ve worked on large-scale platforms and open-source tooling:
 
 - AWS CloudWatch  
-- Rackspace Cloud Queues  
-- Rackspace Cloud CDN  
+- Rackspace Cloud Queues  (Openstack Zaqar)
+- Rackspace Cloud CDN  (Openstack Poppy)
 - AWS SAM CLI  
 - AWS Lambda Builders  
 - AWS Homebrew Tap  
