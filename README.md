@@ -17,7 +17,7 @@ I’m language-agnostic and delight in building short feedback loops that evoke 
 
 - 🌐 Personal website: [srirammv.dev](https://www.srirammv.dev)  
 - 🐦 Twitter: [@srirammv_](https://x.com/srirammv_)  
-- 💼 LinkedIn: [SMV](https://www.linkedin.com/in/smv91/)  
+- 💼 LinkedIn: [Sriram Madapusi Vasudevan](https://www.linkedin.com/in/smv91/)  
 - 🐙 GitHub: [sriram-mv](https://github.com/sriram-mv)  
 
 ---
